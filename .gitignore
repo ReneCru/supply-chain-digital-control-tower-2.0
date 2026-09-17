@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Environment / credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local databases / outputs
+*.db
+*.sqlite
+*.sqlite3
+outputs/
+artifacts/
+
+# Never commit non-synthetic local data
+# Public demonstration data belongs only in data/sample/.
+data/raw/
+data/processed/
