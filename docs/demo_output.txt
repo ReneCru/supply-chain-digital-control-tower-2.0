@@ -1,0 +1,16 @@
+Supply Chain Digital Control Tower 2.0 — Portfolio Edition
+Synthetic demonstration output
+
+Supplier: SYN-SUP-001
+Baseline OTD: 50.0%
+Risk: HIGH
+Recommendation: Review delivery-recovery options with the accountable owner
+Authorization: HUMAN_APPROVED_ACTION_READY
+Synthetic outcome: 72% -> 84% (+12.0 pp)
+Causation claim: NOT ESTABLISHED
+
+Notes:
+- All identifiers and values are synthetic portfolio data.
+- Risk thresholds in the public edition are illustrative only.
+- The recommendation does not authorize itself; a human decision is required.
+- The outcome example reports observed change without automatically asserting causation.
